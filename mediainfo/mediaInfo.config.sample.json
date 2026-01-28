@@ -1,0 +1,15 @@
+{
+	"//Comment": "Used as default parameters to mediaInfo.js. Place this config file in ~/etc/mediaInfo.js, if no flags are passed when calling, it will look for this config in the ~/etc/ dir.",
+	"SitesConf": {
+		"Sites": [{
+			"//Comment-siteID": "used in place of the -s|--site_id flag",
+			"siteID": xxxx,
+
+			"//Comment-lastUpdated": "used in place of the -l|--lastupdated flag",
+			"lastUpdated": 2,
+
+			"//comment-configFileName": "used in place of -c|--config flag. This file is located in the applications dir config/config_mediainfo_sites.js ..",
+			"configFileName": "config_mediainfo_sites_test.js"
+		}]
+	}
+}

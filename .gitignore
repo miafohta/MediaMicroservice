@@ -1,0 +1,8 @@
+mediainfo/config/
+medialinker/config/
+config/
+node_modules/
+package-lock.json
+logs/
+log/
+models/
